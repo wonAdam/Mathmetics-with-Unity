@@ -15,12 +15,6 @@ public class Chapter01 : MonoBehaviour
     public float sphereMagnitudeY = 3.0f;
     public float sphereFrequency = 1.0f;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
